@@ -4,7 +4,7 @@ Project = {
   authors = {"rrhiemstar<rrhiemstar@gmail.com>", }, 
   version = "0.1.0",
   deps = {
-        PkgB = "0.1.0",
+        PkgB = "0.2.0",
     },
 }
 return Project
